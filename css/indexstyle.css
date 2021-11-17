@@ -1,0 +1,32 @@
+body {
+    justify-content: center;
+    text-align: center;
+    margin: 20px 50px 0px 50px; 
+    padding: 0;
+    overflow:hidden;
+    display:block;
+    width: 20 0 0 20;
+    background-color: #D3D3DE;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    font-size: 15px;
+}
+
+button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
